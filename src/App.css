@@ -1,0 +1,15 @@
+#root {
+  background-color: #d2c3;
+  overflow: hidden;
+  position: relative;
+}
+
+#root > .App {
+  background-color: #d7c9;
+  overflow: auto;
+  position: absolute ;
+}
+
+.auto-container {
+  height: auto;
+}
